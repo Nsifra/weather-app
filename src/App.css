@@ -4,12 +4,20 @@
 background-size: cover;
 }
 
+.card-background{
+  background-color: #8d6c6c;
+  border-radius: 15px;
+}
 
 .card-title.h5{
   color: #ea9b70;
 }
 
-p.card-text {
+.card-temperature{
+  color:#6b5f69
+}
+
+.card-text {
   color: #d27860;
 }
 
